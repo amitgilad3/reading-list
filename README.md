@@ -10,6 +10,8 @@
  - [ ] microservices-implementation-journey
 	 - [part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 	 - [part2](https://koukia.ca/a-microservices-implementation-journey-part-2-10c422a4d402)
+ - [ ] [Netflix simplified](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)	 
+	 
 
 ## Tech Blogs
  - [ ] [Netflix](https://medium.com/netflix-techblog)
@@ -17,7 +19,6 @@
 ###  Microservice design patterns
 
  - [ ] [design-patterns-for-microservices](https://dzone.com/articles/design-patterns-for-microservices)
- - [ ] 
 
 
 ### Testing
