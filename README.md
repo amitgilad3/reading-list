@@ -1,11 +1,8 @@
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Articles
 
- - [ ]  [Embracing the Differences : Inside the Netflix API Redesign](https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d)
+ - [X]  [Embracing the Differences : Inside the Netflix API Redesign](https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d)
  - [ ] [microservices-apis-and-swagger](https://swagger.io/blog/api-strategy/microservices-apis-and-swagger/)
  - [ ] [adopting-microservices-netflix](https://dzone.com/articles/adopting-microservices-netflix)
  - [ ]  [invaluable-guide-to-microservices](https://medium.com/hackernoon/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
