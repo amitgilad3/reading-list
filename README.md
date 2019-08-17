@@ -19,7 +19,12 @@
 ###  Microservice design patterns
 
  - [ ] [design-patterns-for-microservices](https://dzone.com/articles/design-patterns-for-microservices)
-
+ - [ ]  [direct-client-to-microservice-communication-versus-the-api-gateway-pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)
+ - [ ] [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+ 
 
 ### Testing
-[testing-microservices-the-sane-way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
+ - [ ] [testing-microservices-the-sane-way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
+- [ ] [twelve-testing-techniques-microservices-intro] (https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
+
+
